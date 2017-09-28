@@ -1,6 +1,6 @@
 @echo off
 
-./nginx-service install
+nginx-service install
 
 echo nginx service installed
 

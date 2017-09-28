@@ -2,7 +2,7 @@
 
 net stop nginx
 
-./nginx-service uninstall
+nginx-service uninstall
 
 echo nginx service uninstalled
 
